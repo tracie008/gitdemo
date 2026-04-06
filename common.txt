@@ -2,6 +2,6 @@ line1byA
 line2byB-byA
 line3byB
 line4
-line5
+line5-byA
 line6
 line7
